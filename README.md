@@ -10,9 +10,9 @@ Atualmente estou construindo minha carreira na área de desenvolvimento de softw
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Graduação em Análise e Desenvolvimento de Sistemas (UNIP)
 - 🏫 Técnico em Análise e Desenvolvimento de Sistemas pela ETEC Polivalente de Americana
-- 💼 Experiência em ambiente corporativo e industrial
+- 💼 Experiência em ambiente administrativo 
 - 📱 Desenvolvedor de aplicativo para inspeções de risco utilizando React Native
 - 🏢 Desenvolvedor de sistema ERP para pequenas empresas utilizando Python (Projeto de TCC)
 - 📚 Aprendizado contínuo através da plataforma Alura e projetos práticos
@@ -68,7 +68,7 @@ Busco oportunidades para atuar como Desenvolvedor de Software, contribuindo para
 
 Tenho grande interesse em:
 
-- Desenvolvimento Back-end
+- Desenvolvimento Full Stack
 - Desenvolvimento Mobile
 - Sistemas ERP
 - Arquitetura de Software
@@ -80,7 +80,7 @@ Tenho grande interesse em:
 
 ## 📫 Contato
 
-📧 7isaacrodrigues7@gmail.com
+📧 isaacdevsouza@gmail.com
 
 📍 Americana - SP, Brasil
 
